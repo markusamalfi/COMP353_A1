@@ -1,0 +1,2 @@
+ALTER TABLE Donors
+ADD COLUMN hobby VARCHAR(100) DEFAULT 'Unknown';
